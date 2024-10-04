@@ -1,6 +1,6 @@
-# cafe527
+# Caffe527
 
-## Project setup
+## Project Setup
 ```
 npm install
 ```
