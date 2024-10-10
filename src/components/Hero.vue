@@ -2,7 +2,7 @@
 
   <div class="hero">
     <!-- Desktop -->
-    <div class="d-none d-md-block">
+    <div class="mt-5">
       <div class="container">
         <div class="row align-items-center justify-content-around">
           <div class="col mt-3">
@@ -36,6 +36,28 @@
     </div>
   </div>
 
+  <div class="">
+
+    <div class="mt-5">
+      <div class="text-center">
+        <h2>Tentang Kami</h2>
+      </div>
+
+    </div>
+
+    <div class="mt-5">
+      <div class="container">
+        <h2 class="fs-4">Cafe 527 adalah sebuah kafe yang berlokasi di jantung kota Serang, Banten. Didirikan dengan semangat untuk menciptakan tempat yang nyaman dan penuh kehangatan, Cafe 527 hadir sebagai destinasi favorit bagi mereka yang ingin menikmati suasana santai dengan sajian yang lezat. Kami mengombinasikan makanan dan minuman berkualitas tinggi dengan suasana yang ramah dan santai, menjadikan setiap kunjungan sebagai pengalaman yang tak terlupakan.
+
+</h2>
+      </div>
+
+      <div class="">
+
+      </div>
+    </div>
+  </div>
+
 </template>
 
 <script>
@@ -44,4 +66,5 @@ export default {
 }
 </script>
 
-<style></style>
+<style>
+</style>
